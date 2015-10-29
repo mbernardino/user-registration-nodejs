@@ -1,0 +1,18 @@
+{
+  "name": "user-registration",
+  "version": "0.0.1",
+  "author": "Moisés Bernardino <bernardinomoises@gmail.com>",
+  "contributors": [ {
+    "name": "Moisés Bernardino",
+    "email": "bernardinomoises@gmail.com" } ],
+  "description": "Um exemplo para cadastro de usuários",
+  "engines":{
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {
+    "express" : "3.x",	
+    "consolidate" : "0.4.x",
+    "swig": "0.12.x"	
+  }
+}
